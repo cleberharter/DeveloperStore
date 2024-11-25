@@ -1,0 +1,38 @@
+[
+    {
+      "id": "2294dfa9-8fe5-433b-8d07-3b1ff18e4a56",
+      "image": "https://cdn.pixabay.com/photo/2016/10/15/13/40/laptop-1742462_1280.jpg",
+      "description": "Lorem ipsum odor amet, consectetuer adipiscing elit. Felis dictum enim pellentesque convallis",
+      "name": "Notebook",
+      "price": 5850.0,
+      "currency": "Real",
+      "quantity": 2
+    },
+    {
+      "id": "4019ac92-8b4e-45af-a5ec-dbb07e09377b",
+      "image": "https://cdn.pixabay.com/photo/2014/07/31/23/10/apple-407122_1280.jpg",
+      "description": "Lorem ipsum odor amet, consectetuer adipiscing elit. Felis dictum enim pellentesque convallis",
+      "name": "Monitor",
+      "price": 756.0,
+      "currency": "Real",
+      "quantity": 2
+    },
+    {
+      "id": "6201dcdd-17eb-467a-a742-633ee84d93e7",
+      "image": "https://cdn.pixabay.com/photo/2020/07/18/17/51/mouse-5417888_960_720.jpg",
+      "description": "Lorem ipsum odor amet, consectetuer adipiscing elit. Felis dictum enim pellentesque convallis",
+      "name": "Mouse",
+      "price": 55.5,
+      "currency": "Real",
+      "quantity": 4
+    },
+    {
+      "id": "f6e6ae42-2f32-463b-8386-a276ae7ba182",
+      "image": "https://cdn.pixabay.com/photo/2020/04/16/13/22/home-office-5050578_1280.jpg",
+      "description": "Lorem ipsum odor amet, consectetuer adipiscing elit. Felis dictum enim pellentesque convallis",
+      "name": "Teclado",
+      "price": 95.6,
+      "currency": "Real",
+      "quantity": 7
+    }
+  ]

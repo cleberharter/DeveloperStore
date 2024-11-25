@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+
+
+html, body { 
+    height: 100%;
+}
+
+body { 
+    margin: 0;
+     font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+mat-icon {
+    color:rgb(94, 94, 94);
+}
+
+.card-body {
+    background-color: rgb(241, 240, 228);
+}
+
+.bg-light-green {
+    background: rgb(141,235,100);
+    background: linear-gradient(90deg, rgba(141,235,100,1) 0%, rgba(70,227,42,1) 27%, rgba(28,179,33,1) 100%);
+}

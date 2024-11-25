@@ -1,0 +1,8 @@
+mat-spinner {
+    min-height: 100vh;
+    z-index: 1001;
+}
+
+.mat-spinner-color::ng-deep circle{
+    stroke: #b76f3a !important;
+}
